@@ -1,0 +1,14 @@
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.exe
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.deps.json
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.runtimeconfig.json
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.dll
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.pdb
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.dll
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\refint\SyntaxAndSyntaxSugarExercise.dll
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.pdb
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.genruntimeconfig.cache
+C:\Users\julia\Desktop\repos3\Syntax-and-Syntax-Sugar-Exercise-REDO\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\ref\SyntaxAndSyntaxSugarExercise.dll
